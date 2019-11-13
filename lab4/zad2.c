@@ -1,3 +1,12 @@
+/*
+ * Upisite niz koji sigurno nije dulji od 200 znakova. Ispisite broj razlicitih malih slova u nizu.
+ *
+ * Primjer izvrsavanja:
+ * Upisite niz znakova > 123abc45678aaad\n
+ * Broj razlicitih malih slova je 4.
+ *
+ */
+
 #include<stdio.h>
 #define AFS 97
 
