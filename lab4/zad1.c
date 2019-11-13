@@ -1,5 +1,10 @@
 /*
- * Upisi broj redaka m i broj stupaca n matrice. Zatim upisi m x n clanova matrice. Ispisi elementu matrice po nekoj glupoj spirali.
+ * Upisi broj redaka m i broj stupaca n matrice. Zatim upisi m x n clanova matrice. Ispisi elemente matrice po spirali kao u primjeru:
+ * 1 <- 2 <- 3 <- 4
+ *                ^
+ * 5 -> 6 -> 7 -> 8
+ * ^
+ * 9 <- 10<- 11<- 12
  *
  * Primjer izvrsavanja:
  * Upisite m i n > 3 4\n
